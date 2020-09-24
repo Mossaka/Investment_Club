@@ -11,3 +11,11 @@ Investment club awesome list
 ## Blogs/Websites 💻
 
 ## Online Courses 🎓
+1. Microsoft free financial education: [FinancialKnowledge](aka.ms/financialknowledge)
+2. MIT Open Course: [Finance Theory I](https://www.youtube.com/playlist?list=PLUl4u3cNGP63B2lDhyKOsImI7FjCf6eDW)
+
+## Subscription
+The Microsfot [library](https://microsoft.sharepoint.com/sites/library/Sitepages/journalsnews/newshub.aspx) has many useful subscriptions and books that are free for all employees. Some of the most loved ones are:
+1. The Wall Street Journal
+2. Harvard Business Review
+3. Financial Times
